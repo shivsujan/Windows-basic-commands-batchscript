@@ -69,8 +69,9 @@ mkdir %userprofile%\Desktop\Backup
 
 copy MyFile.txt %userprofile%\Desktop\Backup
 ```
-![Screenshot from 2024-04-30 11-02-46](https://github.com/shivsujan/Windows-basic-commands-batchscript/assets/145633245/fc1a73ef-f263-4896-9465-239e1420b390)
 ![Screenshot from 2024-04-30 11-02-33](https://github.com/shivsujan/Windows-basic-commands-batchscript/assets/145633245/ad0e4f9e-575b-48f5-95fe-7df3f52b5857)
+![Screenshot from 2024-04-30 11-02-46](https://github.com/shivsujan/Windows-basic-commands-batchscript/assets/145633245/fc1a73ef-f263-4896-9465-239e1420b390)
+
 
 
 ## COMMAND AND OUTPUT
